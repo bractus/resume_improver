@@ -1,0 +1,18 @@
+Profile:
+
+Certifications: AWS Certified...
+
+Skills: DBT - Apache Spark - Oracle Database - MySQL - Databricks - SharePoint API
+
+Experience:
+
+Please fill accordingly including Company name, job title, City, State and years of employment.
+
+Education:
+
+Bachelor, Computer Science, Operational Research, Universidade Federal do Piauí, March 2007 - December 2010
+Master's degree, Artificial Intelligence, Universidade Federal do Rio Grande do Sul, March 2011 - December 2012
+
+Awards:
+
+Please mention if any.

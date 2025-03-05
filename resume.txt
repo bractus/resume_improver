@@ -1,0 +1,132 @@
+Cairo Rocha
+Data Engineer
+https://www.linkedin.com/in/cairo-rocha/
+https://github.com/bractus
+cairoaorocha@gmail.com
++55 86 999463162
+
+Últimas experiências
+
+Data Scientist / Python Backend Developer
+Data Scientist / Python Backend Developer
+Salt RH · Tempo integralSalt RH · Tempo integral
+set de 2020 - abr de 2021 · 8 mesesDe set de 2020 até abr de 2021 · 8 meses
+São Paulo, Brasil · RemotaSão Paulo, Brasil · Remota
+ me ajudou a conseguir esse emprego
+O LinkedIn me ajudou a conseguir esse emprego
+Developed APIs to Dashboard creation. 
+Developed Machine Learning models. 
+Deployed a web server in production using EC2.
+Developed APIs to Dashboard creation. Developed Machine Learning models. Deployed a web server in production using EC2.
+Competências: Python · Aprendizado de máquina · Amazon EC2 · Ciência de dados
+
+Machine Learning Engineer
+Machine Learning Engineer
+Empiricus · Tempo integralEmpiricus · Tempo integral
+abr de 2021 - mai de 2022 · 1 ano 2 mesesDe abr de 2021 até mai de 2022 · 1 ano 2 meses
+Brasil · HíbridaBrasil · Híbrida
+ me ajudou a conseguir esse emprego
+O LinkedIn me ajudou a conseguir esse emprego
+AWS (Lambda, ECS, EC2), Python
+AWS (Lambda, ECS, EC2), Python
+Competências: Amazon SageMaker · Python · Amazon ECS · AWS Lambda · Docker · Amazon EC2
+
+Data Engineer
+Data Engineer
+Ciclic · Tempo integralCiclic · Tempo integral
+mai de 2022 - dez de 2022 · 8 mesesDe mai de 2022 até dez de 2022 · 8 meses
+São Paulo, Brasil · HíbridaSão Paulo, Brasil · Híbrida
+ me ajudou a conseguir esse emprego
+O LinkedIn me ajudou a conseguir esse emprego
+Developed and updated a Modern data stack (Airflow, Airbyte, Metabase) using AWS EC2 and Docker.
+
+Deployed development and production environments.
+
+Created ELT process from PostgreSQL to Redshift using this infrastructure 
+
+Automated reports using Airflow
+Developed and updated a Modern data stack (Airflow, Airbyte, Metabase) using AWS EC2 and Docker. Deployed development and production environments. Created ELT process from PostgreSQL to Redshift using this infrastructure Automated reports using Airflow
+Competências: Python · Docker · Amazon EC2 · Apache Airflow · DBT · Airbyte
+
+
+Data Engineer
+Data Engineer
+NAVA - Technology for Business · Tempo integralNAVA - Technology for Business · Tempo integral
+dez de 2022 - mar de 2023 · 4 mesesDe dez de 2022 até mar de 2023 · 4 meses
+São Paulo, Brasil · PresencialSão Paulo, Brasil · Presencial
+ me ajudou a conseguir esse emprego
+O LinkedIn me ajudou a conseguir esse emprego
+Developed an ETL process in large MySQL databases (3 bi+ rows) for creating rules using SQL, Spark, Hive and Python.
+The area of the development is for Credit Card limit approval. Client was Santander Bank.
+Developed an ETL process in large MySQL databases (3 bi+ rows) for creating rules using SQL, Spark, Hive and Python. The area of the development is for Credit Card limit approval. Client was Santander Bank.
+Competências: Engenharia de dados · Python · Apache Spark
+
+Freelancer
+Freelancer
+Vibbra · FreelanceVibbra · Freelance
+set de 2021 - mai de 2023 · 1 ano 9 mesesDe set de 2021 até mai de 2023 · 1 ano 9 meses
+São Paulo e Região · RemotaSão Paulo e Região · Remota
+ me ajudou a conseguir esse emprego
+O LinkedIn me ajudou a conseguir esse emprego
+Machine Learning (Images, Text...) , Data Engineering, AWS, Airflow
+
+
+Engenheiro de dados
+Engenheiro de dados
+Plataforma Vobys · Tempo integralPlataforma Vobys · Tempo integral
+abr de 2023 - mar de 2024 · 1 anoDe abr de 2023 até mar de 2024 · 1 ano
+Teresina, Piauí, Brasil · RemotaTeresina, Piauí, Brasil · Remota
+ETL from several Oracle databases to MySQL using DBT and Airflow
+Data Catalog and Data Quality using Datahub
+BI Dashboard using Metabase
+
+
+Data Engineer
+Data Engineer
+DHAUZ · Tempo integralDHAUZ · Tempo integral
+fev de 2024 - dez de 2024 · 11 mesesDe fev de 2024 até dez de 2024 · 11 meses
+RemotaRemota
+ me ajudou a conseguir esse emprego
+O LinkedIn me ajudou a conseguir esse emprego
+Databricks ETL
+Sharepoint API
+Databricks ETL Sharepoint API
+Competências: Engenharia de dados
+
+
+Analista de sistema
+Analista de sistema
+SESAPI · Tempo integralSESAPI · Tempo integral
+fev de 2025 - o momento · 2 mesesDe fev de 2025 até o momento · 2 meses
+Teresina, Piauí, Brasil · PresencialTeresina, Piauí, Brasil · Presencial
+Data Engineering
+AI Engineering
+Chatbot
+
+Educação
+
+Universidade Federal do Piauí
+Universidade Federal do Piauí
+Bachelor, Computer Science, Operational ResearchBachelor, Computer Science, Operational Research
+mar de 2007 - dez de 2010mar de 2007 - dez de 2010
+Nota: 8.53Nota: 8.53
+Atividades e grupos: Scientific Initiation Scholarship holder. 
+Monitor in Programming I, Programming II, Data Structured, CompilersAtividades e grupos: Scientific Initiation Scholarship holder. Monitor in Programming I, Programming II, Data Structured, Compilers
+Paper: Graphic and Parallel Tool for Traveling Salesman using Ant Colony Optimization.
+
+Universidade Federal do Rio Grande do Sul
+Universidade Federal do Rio Grande do Sul
+Master degree, Artificial IntelligenceMaster degree, Artificial Intelligence
+mar de 2011 - dez de 2012mar de 2011 - dez de 2012
+Nota: ANota: A
+Master`s degree in Artificial Intelligence. Paper: Memetic Programming for Financial Time Series Forecasting.
+
+Certificações
+
+- AWS Certified Solutions Architect - Associate
+- AWS Certified Cloud Practitioner
+
+Linguas
+
+- Ingles - Avançado
+- Espanhol - Intermediário
